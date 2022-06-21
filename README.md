@@ -5,7 +5,6 @@ Pre-class videos:
 
 - What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 - What is GitHub Pages? https://www.youtube.com/watch?v=2MsN8gpT6jY
-- 
 
 Classes notes:
 
