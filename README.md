@@ -1,6 +1,8 @@
 # Insper-Data-Science-Deploy
 Workshop Insper Data Science Deploy
 
+Professor [@danielscarvalho]()
+
 Pre-class videos:
 
 - What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
@@ -8,8 +10,8 @@ Pre-class videos:
 
 Classes notes:
 
-- [Deploy](deploy-001.ipynb)
+- [Deploy](deploy-001.ipynb) - Visão Geral
 - [Box Deploy - Docker](box-deploy-002.ipynb)
-- [PythonAnywhare - Fun](pythonanywhare-003.ipynb)
+- [PythonAnywhare - Fun](pythonanywhare-003.ipynb) - Anaconda
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
