@@ -11,7 +11,7 @@ Pre-class videos:
 Classes notes:
 
 - [Deploy](deploy-001.ipynb) - Visão Geral
-- [VPS Deploy - Docker](box-deploy-002.ipynb)
+- [VPS Deploy](box-deploy-002.ipynb) - Docker
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
