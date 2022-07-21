@@ -15,3 +15,10 @@ Classes notes:
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
+
+Biblography:
+
+Git Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/GitBook/
+Bash Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/BashBook/
+Linux for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/LinuxBook/
+Pro Git, Scott Chacon and Ben Straub, Apress, 2014, 2ed, https://git-scm.com/book/en/v2
