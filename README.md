@@ -18,7 +18,7 @@ Classes notes:
 
 Biblography:
 
-- Pro Git, Scott Chacon and Ben Straub, Apress, 2014, 2ed, https://git-scm.com/book/en/v2
+- Pro Git, Scott Chacon and Ben Straub, Apress, 2ed, 2014, https://git-scm.com/book/en/v2
 - Docker in Action, Jeff Nickoloff, Manning, 2ed, 2016, https://livebook.manning.com/book/docker-in-action-second-edition
 - Google Cloud Platform in Action, JJ Geewax, 2018, https://livebook.manning.com/book/google-cloud-platform-in-action/
 - Git Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/GitBook/
