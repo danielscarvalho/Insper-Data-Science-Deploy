@@ -23,4 +23,4 @@ Biblography:
 - Linux for Professionals, Stack Overflow, 2019: https://Googlebooks.goalkicker.com/LinuxBook/
 - Pro Git, Scott Chacon and Ben Straub, Apress, 2014, 2ed, https://git-scm.com/book/en/v2
 - Docker in Action, Jeff Nickoloff, Manning, 2016, 2ed, https://livebook.manning.com/book/docker-in-action-second-edition
-- Google Cloud Platform in Action, JJ Geewax, 2018, https://www.manning.com/books/google-cloud-platform-in-action
+- Google Cloud Platform in Action, JJ Geewax, 2018, https://livebook.manning.com/book/google-cloud-platform-in-action/
