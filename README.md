@@ -18,7 +18,7 @@ Classes notes:
 
 Biblography:
 
-Git Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/GitBook/
-Bash Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/BashBook/
-Linux for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/LinuxBook/
-Pro Git, Scott Chacon and Ben Straub, Apress, 2014, 2ed, https://git-scm.com/book/en/v2
+- Git Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/GitBook/
+- Bash Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/BashBook/
+- Linux for Professionals, Stack Overflow, 2019: https://Googlebooks.goalkicker.com/LinuxBook/
+- Pro Git, Scott Chacon and Ben Straub, Apress, 2014, 2ed, https://git-scm.com/book/en/v2
