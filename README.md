@@ -11,6 +11,7 @@ Pre-class videos:
 Classes notes:
 
 - [Deploy](deploy-001.ipynb) - Visão Geral
+- [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração
 - [VPS Deploy](box-deploy-002.ipynb) - Linux
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
