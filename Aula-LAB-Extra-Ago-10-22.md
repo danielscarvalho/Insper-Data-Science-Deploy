@@ -4,6 +4,8 @@
 
 ### LAB - Data Science Deploy: Python + Flask + Linux + Nuvem
 
+10 Ago 2022
+
 Objetivos da aula:
 
 1. Instalar ambiente WSL no Windows 10 ou 11 (Linux Ubuntu)
@@ -13,7 +15,7 @@ Objetivos da aula:
 5. Executar script (e agendar execução via CRON) no servidor da Internet
 6. Fazer deploy do Flask (Python) na nuvem
 7. Revisão:
-   - Linux
+   - Linux - Comandos
    - Git & GitHub
    - Computação em nuvem
    
