@@ -17,6 +17,12 @@ Classes notes:
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
 
+Nuvem:
+
+Recurso gratuito para estudantes da Microsoft Azure
+
+https://azure.microsoft.com/pt-br/free/students/
+
 Biblography:
 
 Toda a bibliografia está disponível online:
