@@ -5,8 +5,12 @@ Professor [@danielscarvalho]()
 
 Pre-class videos:
 
+
 - What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 - What is GitHub Pages? https://www.youtube.com/watch?v=2MsN8gpT6jY
+- The Art of Writing Software https://www.youtube.com/watch?v=QdVFvsCWXrA
+- Why Anaconda? https://www.youtube.com/watch?v=ErIaJFNECCs
+- WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
 
 Classes notes:
 
