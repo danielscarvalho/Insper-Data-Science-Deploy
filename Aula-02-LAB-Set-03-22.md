@@ -17,9 +17,12 @@ Parte 1 - 10:00 - 12:00
     - VSP (Máquina Virtual Linux), nuvem Azure, Oracle Cloud
     - Serverless, Azure, GCP
 
+> RODAR AVALIAÇÃO
+
 Parte 2 - 13:00 - 15:00
 
 3. Publicação (Deploy) de WEB API (Continuação...)
+    - Docker - Instalação WSL (Linux)
     - Docker (Contêiner), local, Azure, GCP
 
 4. Fazer deploy do Flask (Python) na nuvem - LAB
