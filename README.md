@@ -14,13 +14,14 @@ Pre-class videos:
 - WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
 
 Classes notes:
+- [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 
 - [Deploy](deploy-001.ipynb) - Visão Geral
 - [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração
 - [VPS Deploy](box-deploy-002.ipynb) - Linux (Maquina Virtual na Oracle Cloud e Microsoft Azure)
-- [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
+- [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 
 Nuvem:
 
