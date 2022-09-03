@@ -28,6 +28,11 @@ Recurso gratuito para estudantes da Microsoft Azure
 
 https://azure.microsoft.com/pt-br/free/students/
 
+Referências Microsoft Azure:
+
+- [O guia do desenvolvedor para o Azure](https://azure.microsoft.com/pt-br/resources/whitepapers/developer-guide-to-azure/)
+- [Fundamentals of Azure, 2ed, Microsoft Azure Essentials](file:///home/fito/Downloads/9781509302963_Microsoft%20Azure%20Essentials%20Fundamentals%20of%20Azure%202nd%20ed%20pdf.pdf)
+
 Biblography:
 
 Toda a bibliografia está disponível online:
