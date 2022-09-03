@@ -20,6 +20,8 @@ Classes notes:
 - [VPS Deploy](box-deploy-002.ipynb) - Linux (Maquina Virtual na Oracle Cloud e Microsoft Azure)
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
+
+- [LAB - Docker no Azure]
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 
 Nuvem:
