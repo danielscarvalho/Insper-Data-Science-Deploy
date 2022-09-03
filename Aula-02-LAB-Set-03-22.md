@@ -23,11 +23,11 @@ Parte 2 - 13:00 - 15:00
     - Docker (Contêiner), local, Azure, GCP
 
 4. Fazer deploy do Flask (Python) na nuvem - LAB
-   - Git & GitHub, fork, pull request
+   - Git & GitHub: fork, pull request
 5. Executar script (e agendar execução via CRON) no servidor da Internet - LAB
 6. Revisão:
    - Linux - Comandos
    - Git & GitHub
    - Computação em nuvem
      
->> GRAVAR A AULA
+> GRAVAR A AULA
