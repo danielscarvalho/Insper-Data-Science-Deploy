@@ -19,6 +19,7 @@ Parte 1 - 10:00 - 12:00
 
 Parte 2 - 13:00 - 15:00
 
+3. Publicação (Deploy) de WEB API (Continuação...)
     - Docker (Contêiner), local, Azure, GCP
 
 4. Fazer deploy do Flask (Python) na nuvem - LAB
