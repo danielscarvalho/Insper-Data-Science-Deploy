@@ -14,7 +14,6 @@ Pre-class videos:
 - WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
 
 Classes notes:
-- [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 
 - [Deploy](deploy-001.ipynb) - Visão Geral
 - [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração
