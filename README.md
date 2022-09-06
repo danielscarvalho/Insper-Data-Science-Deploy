@@ -12,6 +12,7 @@ Pre-class videos:
 - The Art of Writing Software https://www.youtube.com/watch?v=QdVFvsCWXrA
 - Why Anaconda? https://www.youtube.com/watch?v=ErIaJFNECCs
 - WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
+- What Is REST API? Examples And How To Use It: https://www.youtube.com/watch?v=-mN3VyJuCjM
 
 Classes notes:
 
