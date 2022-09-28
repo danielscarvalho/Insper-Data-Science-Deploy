@@ -1,11 +1,11 @@
-# Insper-Data-Science-Deploy
-
 <img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png" alt="Insper" width="200px" style="float:left; ">
 
-Workshop Insper Data Science Deploy
+# Insper-Data-Science-Deploy
 
 PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO<br>
 https://www.insper.edu.br/pos-graduacao/programas-avancados/programa-avancado-em-data-science-e-decisao/
+
+Workshop Insper Data Science Deploy
 
 Professor [@danielscarvalho]()
 
