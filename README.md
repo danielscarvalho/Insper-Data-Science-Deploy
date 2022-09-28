@@ -1,6 +1,6 @@
 # Insper-Data-Science-Deploy
 
-<img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png" alt="Insper" style="float:right;">
+<img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png" alt="Insper" style="float:right; ">
 
 Workshop Insper Data Science Deploy
 
