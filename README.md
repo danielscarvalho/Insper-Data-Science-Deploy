@@ -1,5 +1,5 @@
-<img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png" alt="Insper" width="200px" style="float:left; ">
-
+<img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png?raw=true" alt="Insper" width="200px" style="float:left; ">
+ 
 # Insper-Data-Science-Deploy
 
 PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO<br>
