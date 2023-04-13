@@ -1,4 +1,9 @@
+<img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png?raw=true" alt="Insper" width="200px" style="float:left; ">
+ 
 # Insper-Data-Science-Deploy
+
+PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO<br>
+https://www.insper.edu.br/pos-graduacao/programas-avancados/programa-avancado-em-data-science-e-decisao/
 
 Workshop Insper Data Science Deploy
 
