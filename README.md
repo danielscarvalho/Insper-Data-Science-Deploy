@@ -29,6 +29,11 @@ Classes notes:
 - LAB - Docker no Azure
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 
+Avaliação:
+
+- Quiz individual (40%) 
+- LAB colaboração (60%) - Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
+
 Nuvem:
 
 Recurso gratuito para estudantes da Microsoft Azure
