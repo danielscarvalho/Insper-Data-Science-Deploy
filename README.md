@@ -3,14 +3,13 @@
 # Insper-Data-Science-Deploy
 
 PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO<br>
-https://www.insper.edu.br/pos-graduacao/programas-avancados/programa-avancado-em-data-science-e-decisao/
+https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/
 
-Workshop Insper Data Science Deploy
+Data Science Deploy
 
-Professor [@danielscarvalho]()
+Professor [@danielscarvalho](https://twitter.com/danielscarvalho)
 
 Pre-class videos:
-
 
 - What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 - What is GitHub Pages? https://www.youtube.com/watch?v=2MsN8gpT6jY
