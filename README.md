@@ -29,6 +29,8 @@ Classes notes:
 - LAB - Docker no Azure
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
 
+Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a803731DC11/data-sciece-deploy
+
 Avaliação:
 
 - Quiz individual (40%) 
