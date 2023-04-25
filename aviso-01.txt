@@ -1,0 +1,30 @@
+Olá,
+
+Sejam bem-vindos a nossa disciplina de Deploy que iniciaremos nesta sexta-feira as 18:00 no Insper (presencial).
+
+Vamos estudar diversas ferramentas de deploy para computação em nuvem, como VSP (máquina virtual), docker, flask, git & github, etc.
+
+Na primeira aula vamos instalar o ambiente, ter uma perspectiva sobre deploy e computação em nuvem para ciências dos dados e introdução ao GitHub.
+
+Temos apenas 3 encontros, não faltem!! :-)
+
+Seguem vídeos pré-aula:
+
+- What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
+- What is GitHub Pages? https://www.youtube.com/watch?v=2MsN8gpT6jY
+- The Art of Writing Software https://www.youtube.com/watch?v=QdVFvsCWXrA
+- Why Anaconda? https://www.youtube.com/watch?v=ErIaJFNECCs
+- WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
+- What Is REST API? Examples And How To Use It: https://www.youtube.com/watch?v=-mN3VyJuCjM
+
+Link do MS Teams (porém nossa aula é presencial!!):
+
+https://teams.microsoft.com/l/meetup-join/19%3AqML0iDiKrX5Oh2gN1ttC0-_4OB9AMfWNd__WVRbP3-I1%40thread.tacv2/1682388910683?context=%7B%22Tid%22%3A%226370a6c0-7b90-4709-bd6e-59c28ede833b%22%2C%22Oid%22%3A%22b13d61e8-686a-4548-a443-d874978dff0f%22%7D
+
+Nossa disciplina é bem prática (LAB)!
+
+Obrigado,
+
+Daniel Carvalho
+
+https://twitter.com/danielscarvalho
