@@ -10,20 +10,22 @@ Objetivos da aula:
 
 Parte 1 de 3 - 18:00 - 22:00
 
-1. Visão geral de computação em nuvem
-2. Visão geral de deploy
-3. Instalação do Linux (WSL2 - Ubuntu) - **Esta turma já deve ter o ambiente OK**
-4. Instalação do Anaconda - Python - **Esta turma já deve ter o ambiente OK**
-5. Instalação do GitHub, Geração de chave SSH, Instalação do App GitHub
-6. Linux CLI (Bash)
-7. Colaboração Git & GitHub, MS VS Code
-8. Comandos e operações básicas do Git
-9. Flask & WEB APIs
-10. Deploy local
-11. Deploy em VPS
+0. Instalação
+    1. Linux (WSL2 - Ubuntu) - **Esta turma já deve ter o ambiente OK**
+    2. Anaconda - Python - **Esta turma já deve ter o ambiente OK**
+    3. Geração de chave SSH, Git, GitHub, Instalação do App GitHub
+    4. MS VS Code
+1. Colaboração Git & GitHub, 
+2. Comandos e operações básicas do Git
+3. Flask & WEB APIs
+4. Deploy local
+5. Deploy Flask WEB API: PythonAnywhere (Anaconda)
+6. Linux CLI (Bash) - Gravado...
+7. Visão geral de computação em nuvem
+8. Visão geral de deploy
 
 Extra:
 
-12. Deploy Flask WEB API: PythonAnywhere (Anaconda)
+9. Deploy em VPS (Azure, Oracle, GCP...)
      
 > GRAVAR A AULA
