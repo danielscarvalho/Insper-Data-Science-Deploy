@@ -23,9 +23,10 @@ Parte 1 de 3 - 18:00 - 22:00
 6. Linux CLI (Bash) - Gravado...
 7. Visão geral de computação em nuvem
 8. Visão geral de deploy
+9. GitHub Pages (dados, dashboard e site estático)
 
 Extra:
 
-9. Deploy em VPS (Azure, Oracle, GCP...)
+10. Deploy em VPS (Azure, Oracle, GCP...)
      
 > GRAVAR A AULA
