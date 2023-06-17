@@ -1,11 +1,15 @@
+<img src="https://www.insper.edu.br/wp-content/themes/insper/dist/image/logo.png?raw=true" alt="Insper" width="200px" style="float:left; ">
+ 
 # Insper-Data-Science-Deploy
 
-Workshop Insper Data Science Deploy
+PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO<br>
+https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/
 
-Professor [@danielscarvalho]()
+Data Science Deploy
+
+Professor [@danielscarvalho](https://twitter.com/danielscarvalho)
 
 Pre-class videos:
-
 
 - What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
 - What is GitHub Pages? https://www.youtube.com/watch?v=2MsN8gpT6jY
@@ -24,6 +28,13 @@ Classes notes:
 
 - LAB - Docker no Azure
 - [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
+
+Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a803731DC11/data-sciece-deploy
+
+Avaliação:
+
+- Quiz individual (40%) 
+- LAB colaboração (60%) - Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
 
 Nuvem:
 
