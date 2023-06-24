@@ -74,5 +74,7 @@ Toda a bibliografia está disponível online:
 - Git Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/GitBook/
 - Bash Notes for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/BashBook/
 - Linux for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/LinuxBook/
+- Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous
+Database, Managed Kubernetes, and Serverless, by Michał Tomasz Jakóbczyk: https://ibook.pub/ql/practical-oracle-cloud-infrastructure-infrastructure-as-a-service-a
 
 Temos também material e referências no Blackboard da nossa disciplina.
