@@ -18,6 +18,17 @@ Pre-class videos:
 - WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
 - What Is REST API? Examples And How To Use It: https://www.youtube.com/watch?v=-mN3VyJuCjM
 
+O que vamos estudar:
+
+- Colaboração com Git & GitHub
+- Crianção de WEB API com Flask
+- Visão geral de computação em nuvem
+  - Máquina Virtual (VSP)
+  - Serverless
+  - Docker (containers)
+  - Functions 
+- Linux CLI (Bash)
+
 Classes notes:
 
 - [Deploy](deploy-001.ipynb) - Visão Geral
