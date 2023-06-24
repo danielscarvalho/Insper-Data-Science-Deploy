@@ -25,8 +25,8 @@ O que vamos estudar:
 - Visão geral de computação em nuvem
   - Máquina Virtual ([VSP](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu) - Virtual Private Server)
   - [Serverless](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service?hl=pt-br)
-  - Docker (containers)
-  - Functions 
+  - [Docker](https://www.docker.com/) (Contêiners)
+  - [Functions](https://cloud.google.com/functions?hl=pt_br) 
   - Ambientes
       - Microsoft Azure
       - Google Cloud Platform (GCP)
