@@ -31,7 +31,7 @@ O que vamos estudar:
       - Microsoft Azure
       - Google Cloud Platform (GCP)
       - Oracle Cloud
-- Linux CLI (Bash) - WSL2 - Ubuntu
+- Linux CLI (Bash) - [WSL2](https://learn.microsoft.com/pt-br/windows/wsl/install) - [Ubuntu](https://ubuntu.com/download)
 
 
 Classes notes:
