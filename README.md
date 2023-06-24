@@ -38,7 +38,7 @@ Classes notes:
 
 - [Deploy](deploy-001.ipynb) - Visão Geral
 - [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração
-- [VPS Deploy](box-deploy-002.ipynb) - Linux (Maquina Virtual na Oracle Cloud e Microsoft Azure)
+- [VPS Deploy](box-deploy-002.ipynb) - Linux (Maquina Virtual na GCP, Oracle Cloud e Microsoft Azure)
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
 
