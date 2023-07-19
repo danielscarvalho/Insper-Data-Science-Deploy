@@ -53,7 +53,7 @@ Avaliação:
 - LAB colaboração (50%) - Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
   - Deploy Flask local (WLS2 Linux Ubuntu)
   - Deploy Flask VSP (VM Linux Ubuntu)
-  - Deploy Docker
+  - Deploy Flask Docker
     
 Nuvem:
 
