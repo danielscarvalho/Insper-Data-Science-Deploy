@@ -12,9 +12,9 @@ Professor [@danielscarvalho](https://twitter.com/danielscarvalho)
 Pre-class videos:
 
 - What is GitHub? https://www.youtube.com/watch?v=w3jLJU7DT5E
-- What is GitHub Pages? https://www.youtube.com/watch?v=2MsN8gpT6jY
+- Host a website using GitHub Pages #Shorts: https://www.youtube.com/watch?v=WqOXxoGSpbs
 - The Art of Writing Software https://www.youtube.com/watch?v=QdVFvsCWXrA
-- Why Anaconda? https://www.youtube.com/watch?v=ErIaJFNECCs
+- Unleash Your Innovation With Anaconda: https://www.youtube.com/watch?v=rYRpdGSgRno
 - WSL2: Code faster on the Windows Subsystem for Linux! https://www.youtube.com/watch?v=MrZolfGm8Zk
 - What Is REST API? Examples And How To Use It: https://www.youtube.com/watch?v=-mN3VyJuCjM
 
