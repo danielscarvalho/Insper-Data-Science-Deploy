@@ -49,8 +49,11 @@ Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a8
 
 Avaliação:
 
-- Quiz individual (40%) 
-- LAB colaboração (60%) - Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
+- Quiz individual (50%)
+  - Deploy Flask local
+  - Deploy Flask VSP (VM)
+  - Deploy Docker 
+- LAB colaboração (50%) - Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
 
 Nuvem:
 
