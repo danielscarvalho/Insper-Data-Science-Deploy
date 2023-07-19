@@ -50,7 +50,7 @@ Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a8
 Avaliação:
 
 - Quiz individual (50%): 12 quetões online no Blackboard (BD com 200 questões)
-- LAB colaboração (50%) - Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
+- LAB colaboração (50%): Acompanhar e participar das 3 aulas com atividades práticas (hands-on)
   - Deploy WEB API Flask local (WLS2 Linux Ubuntu)
   - Deploy WEB API Flask VSP Nuvem (VM Linux Ubuntu)
   - Deploy WEB API Flask Docker Nuvem
