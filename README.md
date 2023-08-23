@@ -51,9 +51,9 @@ Avaliação:
 
 - Quiz individual (50%): 12 quetões online no Blackboard (BD com 200 questões)
 - LAB colaboração (50%): Acompanhar e participar das 3/4 aulas com atividades práticas (hands-on)
-  - Deploy WEB API Flask local (WLS2 Linux Ubuntu)
-  - Deploy WEB API Flask VSP Nuvem (VM Linux Ubuntu)
-  - Deploy WEB API Flask Docker Nuvem
+  - Deploy WEB API Python Flask local (WLS2 Linux Ubuntu)
+  - Deploy WEB API Python Flask VSP Nuvem (VM Linux Ubuntu)
+  - Deploy WEB API Python Flask Docker Nuvem
   - Git & GitHub
     
 Nuvem:
