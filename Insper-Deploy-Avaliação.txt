@@ -1,0 +1,23 @@
+1. 12.5% LAB - WSL2 - Linux (ou Mac ou Linux)
+
+Subir no Blackgoard evidência (print da tela) com seu ambiente local WSL2 Linux (ou Mac ou Linux)
+
+hostname
+whoami
+uname -a
+git --version
+conda --version
+python --version
+
+2. 12.5% LAB - LINUX Azure
+
+3. 12.5% LAB - Docker
+
+4. 12.5% LAB - GitHub
+
+Realizar o fork do projeto, criar e subir seu notebook com gráficos (pull request)
+Subir o link do repo no seu git no blackboard
+
+https://github.com/danielscarvalho/Insper-Graficos-2023
+
+5. 50% Quiz
