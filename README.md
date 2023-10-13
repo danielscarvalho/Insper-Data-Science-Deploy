@@ -80,5 +80,6 @@ Toda a bibliografia está disponível online:
 - Linux for Professionals, Stack Overflow, 2019: https://books.goalkicker.com/LinuxBook/
 - Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous
 Database, Managed Kubernetes, and Serverless, by Michał Tomasz Jakóbczyk: https://ibook.pub/ql/practical-oracle-cloud-infrastructure-infrastructure-as-a-service-a
+- Python Fluente 2Ed, Luciano Ramalho, O’Reilly, 2023: https://pythonfluente.com/
 
 Temos também material e referências no Blackboard da nossa disciplina: https://insper.blackboard.com/
