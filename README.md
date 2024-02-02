@@ -81,5 +81,6 @@ Toda a bibliografia está disponível online:
 - Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous
 Database, Managed Kubernetes, and Serverless, by Michał Tomasz Jakóbczyk: https://ibook.pub/ql/practical-oracle-cloud-infrastructure-infrastructure-as-a-service-a
 - Python Fluente, Luciano Ramalho, O’Reilly, 2ed, 2023: https://pythonfluente.com/
+- An Introduction to Statistical Learning - Python: https://www.statlearning.com/
 
 Temos também material e referências no Blackboard da nossa disciplina: https://insper.blackboard.com/
