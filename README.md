@@ -83,4 +83,10 @@ Database, Managed Kubernetes, and Serverless, by Michał Tomasz Jakóbczyk: http
 - Python Fluente, Luciano Ramalho, O’Reilly, 2ed, 2023: https://pythonfluente.com/
 - An Introduction to Statistical Learning - Python: https://www.statlearning.com/
 
+Extra:
+
+- Release It! Design and Deploy Production-Ready Software, Michael T. Nygard, 2018
+- The AI Playbook: Mastering the Rare Art of Machine Learning Deployment (Management on the Cutting Edge),  Eric Siegel, 2024
+- Deploy Machine Learning Models to Production: With Flask, Streamlit, Docker, and Kubernetes on Google Cloud Platform, Pramod Singh, 2020
+
 Temos também material e referências no Blackboard da nossa disciplina: https://insper.blackboard.com/
