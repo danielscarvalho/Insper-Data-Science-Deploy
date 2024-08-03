@@ -3,7 +3,7 @@
 # Insper-Data-Science-Deploy
 
 PÓS-GRADUAÇÃO EM DATA SCIENCE E DECISÃO<br>
-https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/
+https://www.insper.edu.br/pt/cursos/pos-graduacao/programas-avancados/programas-avancados-data-science-e-decisao
 
 Data Science Deploy
 
