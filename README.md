@@ -35,7 +35,7 @@ O que vamos estudar:
 
 Notas de aula (Classes notes):
 
-- [Deploy](deploy-001.ipynb) - Visão Geral
+- [Deploy](deploy-001.ipynb) - Visão Geral de Deploy para Ciências dos Dados
 - [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração
 - [VPS Deploy](box-deploy-002.ipynb) - Linux (Maquina Virtual na GCP, Oracle Cloud e Microsoft Azure)
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
