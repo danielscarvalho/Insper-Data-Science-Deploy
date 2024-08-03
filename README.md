@@ -22,7 +22,7 @@ O que vamos estudar:
 
 - Colaboração com [Git](https://git-scm.com/) & [GitHub](https://github.com/) - CI/CD
 - Crianção de WEB API com [Flask](https://flask.palletsprojects.com/)
-- Visão geral de computação em nuvem
+- Visão geral de computação em nuvem e deploy
   - Máquina Virtual ([VSP](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu) - Virtual Private Server)
   - [Serverless](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service?hl=pt-br)
   - [Docker](https://www.docker.com/) (Contêiners)
