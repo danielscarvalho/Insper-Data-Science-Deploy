@@ -11,7 +11,7 @@ Objetivos da aula:
 Parte 1 de 3 - 10:00 - 12:00
 
 0. Instalação
-    **Esta turma já deve ter o ambiente WSL2/Linux/Ubunto e Anaconda instalado**
+    - **Esta turma já deve ter o ambiente WSL2/Linux/Ubunto e Anaconda instalado**
     - Linux (WSL2 - Ubuntu) 
     - Anaconda - Python
     - MS VS Code
