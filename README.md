@@ -26,10 +26,9 @@ O que vamos estudar:
   - Máquina Virtual ([VSP](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu) - Virtual Private Server)
   - [Serverless](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service?hl=pt-br)
   - [Docker](https://www.docker.com/) (Contêiners)
-  - [Functions](https://cloud.google.com/functions?hl=pt_br) 
   - Ambientes
-      - Microsoft Azure
       - Google Cloud Platform (GCP)
+      - Microsoft Azure
       - Oracle Cloud
 - Linux CLI (Bash) - [WSL2](https://learn.microsoft.com/pt-br/windows/wsl/install) - [Ubuntu](https://ubuntu.com/download)
 
@@ -41,8 +40,14 @@ Notas de aula (Classes notes):
 - [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
 - [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
 
+- LAB - Docker demo no GCP
 - LAB - Docker no Azure
-- [PythonAnywhare](pythonanywhare-003.ipynb) - Fun - Anaconda
+
+Extra (Vídeos no YouTube):
+
+  - [Functions](https://cloud.google.com/functions?hl=pt_br) 
+  - [PythonAnywhare](pythonanywhare-003.ipynb) - Anaconda
+
 <!--
 Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a803731DC11/data-sciece-deploy
 -->
