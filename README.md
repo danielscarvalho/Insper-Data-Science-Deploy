@@ -47,6 +47,7 @@ Extra (Vídeos no YouTube):
 
   - [Functions](https://cloud.google.com/functions?hl=pt_br) 
   - [PythonAnywhare](pythonanywhare-003.ipynb) - Anaconda
+  - Linux Commands - https://github.com/danielscarvalho/Linux-Commands
 
 <!--
 Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a803731DC11/data-sciece-deploy
