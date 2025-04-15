@@ -45,7 +45,7 @@ Notas de aula (Classes notes):
 
 Extra (Vídeos no YouTube):
 
-  - [Functions](https://cloud.google.com/functions?hl=pt_br) 
+  - [Functions](Function-006.ipynb), [GCP - Cloud Run Functions](https://cloud.google.com/functions?hl=pt_br) 
   - [PythonAnywhare](pythonanywhare-003.ipynb) - Anaconda
   - Linux Commands - https://github.com/danielscarvalho/Linux-Commands
 
