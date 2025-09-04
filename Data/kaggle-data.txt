@@ -1,3 +1,7 @@
 🏦💳👨‍🦳👩‍ Credit scoring for borrowers in bank
 https://www.kaggle.com/datasets/kapturovalexander/bank-credit-scoring
 https://www.kaggle.com/code/parthmandaliyatal/credit-scoring-for-borrowers-in-bank-96-5-acc
+
+Sao Paulo housing prices
+https://www.kaggle.com/datasets/renatosn/sao-paulo-housing-prices/data
+
