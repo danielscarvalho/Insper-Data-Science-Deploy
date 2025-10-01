@@ -30,24 +30,24 @@ O que vamos estudar:
       - Google Cloud Platform (GCP)
       - Microsoft Azure
       - Oracle Cloud
-- Linux CLI (Bash) - [WSL2](https://learn.microsoft.com/pt-br/windows/wsl/install) - [Ubuntu](https://ubuntu.com/download)
+- Linux CLI (Bash) - Terminal - [WSL2](https://learn.microsoft.com/pt-br/windows/wsl/install) - [Ubuntu](https://ubuntu.com/download)
 
 Notas de aula (Classes notes):
 
 - [Deploy](deploy-001.ipynb) - Visão Geral de Deploy para Ciências dos Dados
-- [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração
+- [Git & GitHub](Git-GitHub-000.ipynb) - Colaboração, gestão de código
 - [VPS Deploy](box-deploy-002.ipynb) - Linux (Maquina Virtual na GCP, Oracle Cloud e Microsoft Azure)
-- [Google App Engine - Serverless](GoogleAppEngine-0004.ipynb)
-- [Google Cloud Run - Docker](GoogleCloudRun-005.ipynb)
+- [Google App Engine](GoogleAppEngine-0004.ipynb) - Serverless
+- [Google Cloud Run](GoogleCloudRun-005.ipynb) - Docker
 
 - LAB - Docker demo no GCP
 - LAB - Docker no Azure
 
-Extra (Vídeos no YouTube):
+Extra (Vídeos no YouTube) - Demos:
 
   - [Functions](Function-006.ipynb), [GCP - Cloud Run Functions](https://cloud.google.com/functions?hl=pt_br) 
   - [PythonAnywhare](pythonanywhare-003.ipynb) - Anaconda
-  - Linux Commands - https://github.com/danielscarvalho/Linux-Commands
+  - [Linux Commands](https://github.com/danielscarvalho/Linux-Commands) - Mistérios do Terminal
 
 <!--
 Trello: https://trello.com/invite/b/KmhMmlSM/ATTIbfd59a470351997bad6be31c8e764a803731DC11/data-sciece-deploy
@@ -60,8 +60,9 @@ Avaliação:
   - Deploy WEB API Python Flask local (WLS2 Linux Ubuntu)
   - Deploy WEB API Python Flask VSP Nuvem (VM Linux Ubuntu)
   - Deploy WEB API Python Flask Docker Nuvem
-  - Git & GitHub
-    
+  - Deploy Jupyter Notebook - Colaborate with Git & GitHub
+  Entregas de evidências individuais das atividades em aula (LAB) no Blackboard
+  
 Nuvem:
 
 Recurso gratuito para estudantes da Microsoft Azure
